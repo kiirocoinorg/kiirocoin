@@ -1,0 +1,2 @@
+# kiirocoin
+This has moved
